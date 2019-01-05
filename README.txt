@@ -1,0 +1,1 @@
+This is a project I made for the course by using python, which is for calculate the money in Konetalo ravintola, tty
